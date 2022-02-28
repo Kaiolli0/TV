@@ -1,17 +1,3 @@
-local Players = game:GetService('Players')
-
-local module = {}
-
-function module.run()
-	for i, v in pairs(Players:GetPlayers()) do
-		local char = v.Character
-		
-		if char and char:FindFirstChild('Humanoid') then
-			if char.Humanoid.Health > 0 then
-				char.Humanoid.Health = 0
-			end
-		end
-	end
-end
-
-return module
+#EXTM3U
+#EXTINF:-1,CNN
+https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/index.m3u8
