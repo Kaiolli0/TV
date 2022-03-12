@@ -1,27 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="BBB Cam 1" tvg-logo="https://i.imgur.com/g3yA4mM.png" group-title="BBB",BBB Cam 1
-http://serverfulltop.com:80/live/QhssC5/vKZiAo/70494.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 1" tvg-logo="https://i.imgur.com/g3yA4mM.png" group-title="BBB",BBB Cam 1
-http://serverfulltop.com:80/live/QhssC5/vKZiAo/70719.m3u8
+http://serverfulltop.com:80/live/gq5rBs/gnTnMx/70719.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB Cam 10" tvg-logo="https://i.imgur.com/g3yA4mM.png" group-title="BBB",BBB Cam 10
-http://serverfulltop.com:80/live/QhssC5/vKZiAo/70714.m3u8
+http://serverfulltop.com:80/live/gq5rBs/gnTnMx/70714.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB Cam 2" tvg-logo="https://i.imgur.com/g3yA4mM.png" group-title="BBB",BBB Cam 2
-http://serverfulltop.com:80/live/QhssC5/vKZiAo/70495.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 2" tvg-logo="https://i.imgur.com/g3yA4mM.png" group-title="BBB",BBB Cam 2
-http://serverfulltop.com:80/live/QhssC5/vKZiAo/70715.m3u8
+http://serverfulltop.com:80/live/gq5rBs/gnTnMx/70715.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB Cam 3" tvg-logo="https://i.imgur.com/g3yA4mM.png" group-title="BBB",BBB Cam 3
-http://serverfulltop.com:80/live/QhssC5/vKZiAo/70724.m3u8
+http://serverfulltop.com:80/live/gq5rBs/gnTnMx/70724.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB Cam 4" tvg-logo="https://i.imgur.com/g3yA4mM.png" group-title="BBB",BBB Cam 4
-http://serverfulltop.com:80/live/QhssC5/vKZiAo/70716.m3u8
+http://serverfulltop.com:80/live/gq5rBs/gnTnMx/70716.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB Cam 5" tvg-logo="https://i.imgur.com/g3yA4mM.png" group-title="BBB",BBB Cam 5
-http://serverfulltop.com:80/live/QhssC5/vKZiAo/70717.m3u8
+http://serverfulltop.com:80/live/gq5rBs/gnTnMx/70717.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB Cam 6" tvg-logo="https://i.imgur.com/g3yA4mM.png" group-title="BBB",BBB Cam 6
-http://serverfulltop.com:80/live/QhssC5/vKZiAo/70723.m3u8
+http://serverfulltop.com:80/live/gq5rBs/gnTnMx/70723.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB Cam 7" tvg-logo="https://i.imgur.com/g3yA4mM.png" group-title="BBB",BBB Cam 7
-http://serverfulltop.com:80/live/QhssC5/vKZiAo/70721.m3u8
+http://serverfulltop.com:80/live/gq5rBs/gnTnMx/70721.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB Cam 8" tvg-logo="https://i.imgur.com/g3yA4mM.png" group-title="BBB",BBB Cam 8
-http://serverfulltop.com:80/live/QhssC5/vKZiAo/70722.m3u8
+http://serverfulltop.com:80/live/gq5rBs/gnTnMx/70722.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB Cam 9" tvg-logo="https://i.imgur.com/g3yA4mM.png" group-title="BBB",BBB Cam 9
-http://serverfulltop.com:80/live/QhssC5/vKZiAo/70720.m3u8
+http://serverfulltop.com:80/live/gq5rBs/gnTnMx/70720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB Mosaico" tvg-logo="https://i.imgur.com/g3yA4mM.png" group-title="BBB",BBB Mosaico
-http://serverfulltop.com:80/live/QhssC5/vKZiAo/70718.m3u8
+http://serverfulltop.com:80/live/gq5rBs/gnTnMx/70718.m3u8
