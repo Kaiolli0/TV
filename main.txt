@@ -1,1 +1,1 @@
-{"text": "opa", "description": "isso serve para nada"}
+{"text": "opa", "cor": "branco"}
